@@ -1,6 +1,6 @@
 # Hi, I'm Yong Lyhor 👋
 
-### Data Science Student | AI Engineer Intern | Software Developer
+### Data Science Student 
 
 I'm a fourth-year **Data Science student at the Institute of Technology of Cambodia (ITC)** with a strong interest in **Artificial Intelligence, Data Science, Software Development, and IoT Systems**.
 
