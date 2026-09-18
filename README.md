@@ -1,16 +1,22 @@
-## Hi there 👋
+# Hi, I'm Yong Lyhor 👋
 
-<!--
-**YongLyhor/YongLyhor** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Data Science Student | AI Engineer Intern | Software Developer
 
-Here are some ideas to get you started:
+I'm a fourth-year **Data Science student at the Institute of Technology of Cambodia (ITC)** with a strong interest in **Artificial Intelligence, Data Science, Software Development, and IoT Systems**.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I enjoy learning new technologies, solving technical problems, and building practical software systems.
+
+---
+
+## 👨‍💻 About Me
+
+- 🎓 Fourth-year Data Science student at **Institute of Technology of Cambodia**
+- 🤖 Currently working as an **AI Engineer Intern**
+- 📊 Interested in **Data Science, Machine Learning, and Deep Learning**
+- 💻 Interested in **Backend and Frontend Development**
+- 📡 Interested in **IoT and Real-Time Data Systems**
+- 🧠 Currently exploring **LLMs, RAG, and AI Engineering**
+- 🌱 Always learning and improving my technical skills
+
+---
+
