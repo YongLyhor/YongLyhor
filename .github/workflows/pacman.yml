@@ -18,7 +18,7 @@ jobs:
         uses: actions/checkout@v4
 
       - name: Generate Pac-Man contribution graph
-        uses: abozanona/pacman-contribution-graph@main
+        uses: abozanona/pacman-contribution-graph@v5.3.2
         with:
           github_user_name: YongLyhor
 
@@ -37,5 +37,6 @@ jobs:
             echo "No pacman changes to commit."
           else
             git commit -m "chore: update contribution pacman graph"
+            git pull --rebase origin main
             git push
           fi
