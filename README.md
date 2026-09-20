@@ -162,53 +162,50 @@ and serving insights through FastAPI backends and interactive dashboards.
 
 <div align="center">
 
-### Real-Time Weather ETL Pipeline
-
-**End-to-end data engineering pipeline** collecting live weather data for 8 Cambodian cities — orchestrated with Airflow, transformed with PySpark, stored in PostgreSQL, and served through a Streamlit dashboard, all containerized with Docker.
-
-**Apache Airflow · Apache Spark / PySpark · PostgreSQL · Streamlit · Docker**
-
-[![Repo](https://img.shields.io/badge/View%20Repository-181717?style=flat&logo=github&logoColor=white)](https://github.com/YongLyhor/Real-Time_Weather_Pipline_ETL-)
-
-### IoT Platform API (MQTT · EMQX)
-
-**IoT data platform** for smart-meter sensor telemetry — an EMQX MQTT broker feeds a FastAPI service that ingests, validates, and stores time-series sensor readings in TimescaleDB.
-
-**MQTT · EMQX · FastAPI · TimescaleDB · Docker**
-
-[![Repo](https://img.shields.io/badge/View%20Repository-181717?style=flat&logo=github&logoColor=white)](https://github.com/YongLyhor/Test_emqx)
-
-### English-to-Khmer Translator
-
-**Sequence-to-sequence machine translation model** built with TensorFlow/Keras (LSTM) and deployed as an interactive Streamlit app.
-
-**TensorFlow · Keras · LSTM · Streamlit · Python**
-
-[![Repo](https://img.shields.io/badge/View%20Repository-181717?style=flat&logo=github&logoColor=white)](https://github.com/YongLyhor/English-to-Khmer-Translator)
-
-### Image Caption Generator
-
-**Deep learning image captioning** system combining computer vision and NLP, served through a Streamlit interface.
-
-**TensorFlow · Image Captioning · Streamlit · Python**
-
-[![Repo](https://img.shields.io/badge/View%20Repository-181717?style=flat&logo=github&logoColor=white)](https://github.com/YongLyhor/Image-Caption-Generator)
-
-### Rice Yield Prediction System
-
-**Machine learning project** predicting rice yield using scikit-learn models, exposed through a web interface.
-
-**scikit-learn · Python · HTML · CSS · JavaScript**
-
-[![Repo](https://img.shields.io/badge/View%20Repository-181717?style=flat&logo=github&logoColor=white)](https://github.com/YongLyhor/Rice-Yield-Prediction-System)
-
-### Student Management System API
-
-**RESTful backend** built with FastAPI and PostgreSQL for managing students, teachers, and courses — with JWT authentication, Docker Compose, and Alembic migrations.
-
-**FastAPI · PostgreSQL · SQLAlchemy · JWT · Docker**
-
-[![Repo](https://img.shields.io/badge/View%20Repository-181717?style=flat&logo=github&logoColor=white)](https://github.com/YongLyhor/demo_fastapi_student_ms)
+<table>
+  <tr>
+    <td width="50%">
+      <h3 align="center">Real-Time Weather ETL Pipeline</h3>
+      <p align="center">End-to-end data engineering pipeline collecting live weather data for 8 Cambodian cities - orchestrated with Airflow, transformed with PySpark, stored in PostgreSQL, served via Streamlit, fully containerized with Docker.</p>
+      <p align="center"><b>Airflow · PySpark · PostgreSQL · Streamlit · Docker</b></p>
+      <p align="center"><a href="https://github.com/YongLyhor/Real-Time_Weather_Pipline_ETL-"><img src="https://img.shields.io/badge/View%20Repository-181717?style=flat&logo=github&logoColor=white" alt="Repo"></a></p>
+    </td>
+    <td width="50%">
+      <h3 align="center">IoT Platform API (MQTT · EMQX)</h3>
+      <p align="center">IoT data platform for smart-meter sensor telemetry - an EMQX MQTT broker feeds a FastAPI service that ingests, validates, and stores time-series sensor readings in TimescaleDB.</p>
+      <p align="center"><b>MQTT · EMQX · FastAPI · TimescaleDB · Docker</b></p>
+      <p align="center"><a href="https://github.com/YongLyhor/Test_emqx"><img src="https://img.shields.io/badge/View%20Repository-181717?style=flat&logo=github&logoColor=white" alt="Repo"></a></p>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%">
+      <h3 align="center">English-to-Khmer Translator</h3>
+      <p align="center">Sequence-to-sequence machine translation model built with TensorFlow/Keras (LSTM) and deployed as an interactive Streamlit app.</p>
+      <p align="center"><b>TensorFlow · Keras · LSTM · Streamlit</b></p>
+      <p align="center"><a href="https://github.com/YongLyhor/English-to-Khmer-Translator"><img src="https://img.shields.io/badge/View%20Repository-181717?style=flat&logo=github&logoColor=white" alt="Repo"></a></p>
+    </td>
+    <td width="50%">
+      <h3 align="center">Image Caption Generator</h3>
+      <p align="center">Deep learning image captioning system combining computer vision and NLP, served through a Streamlit interface.</p>
+      <p align="center"><b>TensorFlow · Image Captioning · Streamlit</b></p>
+      <p align="center"><a href="https://github.com/YongLyhor/Image-Caption-Generator"><img src="https://img.shields.io/badge/View%20Repository-181717?style=flat&logo=github&logoColor=white" alt="Repo"></a></p>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%">
+      <h3 align="center">Rice Yield Prediction System</h3>
+      <p align="center">Machine learning project predicting rice yield using scikit-learn models, exposed through a web interface.</p>
+      <p align="center"><b>scikit-learn · Python · Web</b></p>
+      <p align="center"><a href="https://github.com/YongLyhor/Rice-Yield-Prediction-System"><img src="https://img.shields.io/badge/View%20Repository-181717?style=flat&logo=github&logoColor=white" alt="Repo"></a></p>
+    </td>
+    <td width="50%">
+      <h3 align="center">Student Management System API</h3>
+      <p align="center">RESTful backend built with FastAPI and PostgreSQL for managing students, teachers, and courses - with JWT authentication, Docker Compose, and Alembic migrations.</p>
+      <p align="center"><b>FastAPI · PostgreSQL · JWT · Docker</b></p>
+      <p align="center"><a href="https://github.com/YongLyhor/demo_fastapi_student_ms"><img src="https://img.shields.io/badge/View%20Repository-181717?style=flat&logo=github&logoColor=white" alt="Repo"></a></p>
+    </td>
+  </tr>
+</table>
 
 </div>
 
