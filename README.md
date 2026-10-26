@@ -8,25 +8,7 @@
 
 ---
 
-## About Me
 
-I'm a data-focused developer working across the full data lifecycle — from ingesting
-streaming sensor data over MQTT to orchestrating ETL pipelines, training ML/DL models,
-and serving insights through FastAPI backends and interactive dashboards.
-
-- 🎓 Fourth-year **Data Science** student at the **Institute of Technology of Cambodia (ITC)**
-- 🧠 Building **real-time ETL pipelines**, **RAG / LLM applications**, and **REST APIs**
-- 📈 Focus: **Data Engineering · Machine Learning · Backend Engineering · IoT Data**
-- 🛠️ Passionate about turning raw data into clean, reliable, and useful systems
-
----
-
-## Currently Learning
-
-- Real-time data pipelines with **Apache Airflow + PySpark**
-- Time-series storage and analytics with **TimescaleDB**
-- Khmer / English NLP and **RAG** chatbot architectures
-- Scalable backend services with **FastAPI** and **Docker**
 
 ---
 
